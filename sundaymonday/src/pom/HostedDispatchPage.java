@@ -1,3 +1,4 @@
+package pom;
 public class HostedDispatchPage
 {
   public void m2()
